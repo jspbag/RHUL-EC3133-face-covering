@@ -1,0 +1,57 @@
+---
+pagetitle: EC3133 face covering
+output: 
+  revealjs::revealjs_presentation:
+    incremental: false
+    theme: solarized
+    self_contained: false
+    # reveal_plugins: ["menu","notes","chalkboard"]
+    reveal_plugins: ["menu"]
+    highlight: pygments
+    center: true
+    transition: none
+    background_transition: none 
+    reveal_options:
+      # chalkboard:
+      #   theme: whiteboard
+      #   toggleNotesButton: true
+      #   toggleChalkboardButton: true
+      menu:
+        numbers: true
+      slideNumber: true
+      previewLinks: false
+    fig_caption: true
+    pandoc_args:
+    - --indented-code-classes
+    - lineNumbers
+    css: mystyle.css
+    
+--- 
+
+# Wear a face covering
+
+# College policy on face covering
+
+"We are strongly advising everyone who is able to, to wear a face covering when moving around campus, and indoors when you are asked to"
+
+
+# Wear a face covering in EC3133
+
+22% of our students are either clinically vulnerable themselves, or have a clinically vulnerable person in their household that they wish to protect from the virus 
+
+<small>(*Source*: LSS Equality, Diversity and Inclusion survey)</small>
+
+Wearing a face covering is a small sacrifice to protect vulnerable students and staff and is a minimal mark of respect for their health concerns
+
+# Exempt students must have a lanyard
+
+Students who cannot wear a face covering due to a health condition must be in possession of an appropriate lanyard from Wellbeing to indicate that they are exempt from wearing a face covering
+
+# Class room etiquette
+
+- When you speak, speak as clearly and slowly as possible
+
+- When you are not speaking, be quiet and attentive to the person speaking
+
+- When entering the lecture theater, take a seat straightaway; do not move around in the lecture theater
+
